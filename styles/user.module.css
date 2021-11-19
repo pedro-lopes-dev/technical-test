@@ -1,0 +1,39 @@
+.main {
+    padding-bottom: 30px;
+}
+
+.logo {
+    margin: 40px 0;
+}
+
+.title {
+    color: white;
+    font-weight: bold;
+    margin-bottom: 30px;
+}
+
+.subtitle {
+    margin-top: 10px;
+}
+
+.cardContent {
+    padding: 30px;
+}
+
+.container {
+    padding-bottom: 40px;
+}
+
+.shareButtonsContainer {
+    margin-top: 40px;
+    display: flex;
+    flex-direction: row;
+}
+
+.shareButton {
+    margin-right: 10px;
+}
+
+.mapSection {
+    height: 100%;
+}

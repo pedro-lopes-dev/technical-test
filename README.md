@@ -1,9 +1,9 @@
 # technical-test
-RealFevr Technical Test
+RealFevr Technical Test - [Demo](https://example.com)
 
 ## Step 1 - Clone repository
 ```sh 
-  git clone https://github.com/pedro-lopes97/technical-test.git):
+  git clone (https://github.com/pedro-lopes97/technical-test.git)
 ```
 
 ## Step 2 - Change directory
