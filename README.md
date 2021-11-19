@@ -3,7 +3,7 @@ RealFevr Technical Test - [Demo](https://realfevr-technical-test.vercel.app)
 
 ## Step 1 - Clone repository
 ```sh 
-  git clone (https://github.com/pedro-lopes97/technical-test.git)
+  git clone https://github.com/pedro-lopes97/technical-test.git
 ```
 
 ## Step 2 - Change directory
