@@ -1,5 +1,5 @@
 # technical-test
-RealFevr Technical Test - [Demo](https://example.com)
+RealFevr Technical Test - [Demo](https://realfevr-technical-test.vercel.app/)
 
 ## Step 1 - Clone repository
 ```sh 
