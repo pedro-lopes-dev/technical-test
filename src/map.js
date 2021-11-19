@@ -1,5 +1,8 @@
 import React from 'react';
 import * as L from 'react-leaflet';
+import 'leaflet/dist/leaflet.css';
+import 'leaflet-defaulticon-compatibility/dist/leaflet-defaulticon-compatibility.webpack.css';
+import 'leaflet-defaulticon-compatibility';
 
 const Markers = ({ users }) => {
   const map = L.useMap();
